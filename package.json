@@ -2,7 +2,7 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://waha6.github.io/todoApp",
+  "homepage": "http://waha6.github.io/todoAppWithAPI",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
